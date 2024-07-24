@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+VN168 - Cổng Game Trực Tuyến Đẳng Cấp Với Giao Diện Thân Thiện và Đầy Đủ Tính Năng - vn168.in
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`VN168 <https://vn168.in/>`_ là một cổng chơi game trực tuyến hàng đầu tại Việt Nam, mang đến cho người chơi những trải nghiệm game độc đáo và đa dạng. Với giao diện thân thiện và dễ sử dụng, VN168 nhanh chóng trở thành điểm đến yêu thích của hàng nghìn game thủ trên cả nước. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 102 Nguyễn Văn Hưởng, P. Thảo Điền, Quận 2, Hồ Chí Minh, Việt Nam, 70000. 
 
-   This project is under active development.
+Phone: 0851478523. 
 
-Contents
---------
+Email: adminvn168@gmail.com. 
 
-.. toctree::
+Website: https://vn168.in/
 
-   usage
-   api
+#vn168 #nhacaivn168 #trangchuvn168 #dangkyvn168 #linkvn168
